@@ -1,4 +1,4 @@
-Mvc_Admin Panelli CV Sitesi
+*Mvc_Admin Panelli CV Sitesi*
 Bu proje Murat Yücedağ tarafından Udemy de yayınlanan Mcv5 ile Sıfırdan Admin Panelli Dinamik CV Sitesi Eğitimi uygulamasını içermektedir.
 
 Projeye Genel Bakış
